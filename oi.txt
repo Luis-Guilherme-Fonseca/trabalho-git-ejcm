@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fora temer!
+=======
+Oi mamãe
+>>>>>>> 7ebedca67f67e471910d4d45bb993ede89254c19
